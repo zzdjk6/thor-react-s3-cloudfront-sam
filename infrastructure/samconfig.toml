@@ -6,6 +6,6 @@ stack_name = "thor-spike-react-s3-cloudfront"
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-p6va62qtnrw6"
 s3_prefix = "thor-spike-react-s3-cloudfront"
 region = "ap-southeast-2"
-confirm_changeset = true
+confirm_changeset = false
 capabilities = "CAPABILITY_IAM"
 image_repositories = []
