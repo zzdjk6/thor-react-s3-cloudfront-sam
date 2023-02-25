@@ -23,7 +23,7 @@
     "serve": "serve -s build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "scripts/deploy.sh"
+    "deploy": "node scripts/deploy.js"
   },
   "eslintConfig": {
     "extends": [
